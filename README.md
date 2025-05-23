@@ -1,6 +1,3 @@
-# Sorting-Visualiser
-The Sorting Visualizer is an interactive web application designed to visually demonstrate how different sorting algorithms work.
-
 # 🔢 Sorting Visualizer
 
 The **Sorting Visualizer** is an interactive web application designed to visually demonstrate how different sorting algorithms work. It offers an engaging and educational way to explore how data gets sorted through step-by-step animations.
@@ -32,7 +29,7 @@ Follow these instructions to run the Sorting Visualizer on your local machine.
 ### ✅ Prerequisites
 
 - A modern web browser (Google Chrome, Firefox, Edge, etc.)
-- (Optional) Node.js and npm if using React
+- *(Optional)* Node.js and npm if using React
 
 ### 🧾 Installation
 
@@ -41,41 +38,27 @@ Follow these instructions to run the Sorting Visualizer on your local machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/sorting-visualizer.git
+   git clone https://github.com/S1ndeep/Sorting-Visualiser.git
 Navigate to the project folder:
-
-bash
-Copy
-Edit
-cd sorting-visualizer
+cd Sorting-Visualiser
 Open the index.html file in your browser.
 
-Option 2: React Version
+Option 2: React Version (if applicable)
 Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/sorting-visualizer.git
-cd sorting-visualizer
+
+git clone https://github.com/S1ndeep/Sorting-Visualiser.git
+cd Sorting-Visualiser
 Install dependencies:
 
-bash
-Copy
-Edit
+
 npm install
 Start the development server:
 
-bash
-Copy
-Edit
 npm start
 Open http://localhost:3000 in your browser to view the app.
 
 📸 Screenshots
 
-
-![image](https://github.com/user-attachments/assets/ba60d16a-bffb-4954-997e-555ad4bc5afd)
-
-
+![image](https://github.com/user-attachments/assets/9da3e8a2-c7ad-4b0b-ba1b-ae6bcaa791bb)
 
